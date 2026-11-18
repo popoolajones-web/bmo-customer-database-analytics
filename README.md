@@ -8,6 +8,7 @@ This project demonstrates relational database design, SQL querying, data validat
 
 Database Design
 
+![BMO Database Relational Model](IMG_1266.png)
 Designed a relational database model with primary keys, foreign keys, and relationships to support data integrity, analytical querying, and reporting.
 
 Key Skills Demonstrated
